@@ -1,0 +1,126 @@
+﻿行业,公司代号,招聘系统
+AI 公司,anthropic,greenhouse
+AI 公司,character,ashby
+AI 公司,cohere,ashby
+AI 公司,databricks,greenhouse
+AI 公司,elevenlabs,ashby
+AI 公司,handshake,ashby
+AI 公司,invisibletech,greenhouse
+AI 公司,labelbox,greenhouse
+AI 公司,mercor,ashby
+AI 公司,openai,ashby
+AI 公司,perplexity,ashby
+AI 公司,runway,ashby
+AI 公司,scaleai,greenhouse
+AI 公司,snorkelai,greenhouse
+AI 公司,togetherai,greenhouse
+AI 公司,turing,greenhouse
+AI 公司,xai,greenhouse
+AI 应用 / SaaS,abridge,ashby
+AI 应用 / SaaS,airtable,greenhouse
+AI 应用 / SaaS,asana,greenhouse
+AI 应用 / SaaS,attio,ashby
+AI 应用 / SaaS,decagon,ashby
+AI 应用 / SaaS,descript,greenhouse
+AI 应用 / SaaS,gamma,ashby
+AI 应用 / SaaS,granola,ashby
+AI 应用 / SaaS,harvey,ashby
+AI 应用 / SaaS,hightouch,ashby
+AI 应用 / SaaS,intercom,greenhouse
+AI 应用 / SaaS,linear,ashby
+AI 应用 / SaaS,lovable,ashby
+AI 应用 / SaaS,n8n,ashby
+AI 应用 / SaaS,notion,ashby
+AI 应用 / SaaS,pika,ashby
+AI 应用 / SaaS,posthog,ashby
+AI 应用 / SaaS,ramp,ashby
+AI 应用 / SaaS,replit,ashby
+AI 应用 / SaaS,sierra,ashby
+AI 应用 / SaaS,suno,ashby
+AI 应用 / SaaS,supabase,ashby
+AI 应用 / SaaS,synthesia,ashby
+AI 应用 / SaaS,vercel,greenhouse
+AI 应用 / SaaS,writer,ashby
+AI 应用 / SaaS,zapier,ashby
+咨询 / 研究,alphasights,greenhouse
+咨询 / 研究,clearviewhealthcarepartners,greenhouse
+咨询 / 研究,dscout,greenhouse
+咨询 / 研究,emarketer,greenhouse
+咨询 / 研究,guidepoint,greenhouse
+咨询 / 研究,ideo,greenhouse
+咨询 / 研究,oliverwyman,lever
+咨询 / 研究,pointb,lever
+咨询 / 研究,prophet,greenhouse
+咨询 / 研究,qualtrics,greenhouse
+咨询 / 研究,thirdbridge,greenhouse
+咨询 / 研究,thoughtworks,greenhouse
+媒体 / 广告,applovin,greenhouse
+媒体 / 广告,axios,greenhouse
+媒体 / 广告,cameo,greenhouse
+媒体 / 广告,hugeinc,greenhouse
+媒体 / 广告,insider,greenhouse
+媒体 / 广告,later,greenhouse
+媒体 / 广告,medium,greenhouse
+媒体 / 广告,mntn,greenhouse
+媒体 / 广告,ogilvy,greenhouse
+媒体 / 广告,rga,greenhouse
+媒体 / 广告,sproutsocial,greenhouse
+媒体 / 广告,substack,ashby
+媒体 / 广告,thenewyorktimes,greenhouse
+媒体 / 广告,thetradedesk,greenhouse
+媒体 / 广告,twitch,greenhouse
+媒体 / 广告,voxmedia,greenhouse
+媒体 / 广告,wpp,greenhouse
+消费品牌,bombas,greenhouse
+消费品牌,everlane,greenhouse
+消费品牌,faire,greenhouse
+消费品牌,glossier,greenhouse
+消费品牌,gymshark,greenhouse
+消费品牌,harrys,greenhouse
+消费品牌,hellofresh,greenhouse
+消费品牌,liquiddeath,greenhouse
+消费品牌,mejuri,greenhouse
+消费品牌,olipop,greenhouse
+消费品牌,oura,greenhouse
+消费品牌,parachutehome,greenhouse
+消费品牌,peloton,greenhouse
+消费品牌,renttherunway,greenhouse
+消费品牌,ritual,greenhouse
+消费品牌,seatgeek,greenhouse
+消费品牌,stitchfix,greenhouse
+消费品牌,sweetgreen,greenhouse
+消费品牌,thirdlove,greenhouse
+科技公司,airbnb,greenhouse
+科技公司,cloudflare,greenhouse
+科技公司,datadog,greenhouse
+科技公司,discord,greenhouse
+科技公司,doordashusa,greenhouse
+科技公司,dropbox,greenhouse
+科技公司,duolingo,greenhouse
+科技公司,elastic,greenhouse
+科技公司,instacart,greenhouse
+科技公司,lyft,greenhouse
+科技公司,mongodb,greenhouse
+科技公司,nextdoor,greenhouse
+科技公司,okta,greenhouse
+科技公司,palantir,lever
+科技公司,pinterest,greenhouse
+科技公司,reddit,greenhouse
+科技公司,roblox,greenhouse
+科技公司,samsara,greenhouse
+科技公司,spotify,lever
+科技公司,squarespace,greenhouse
+科技公司,toast,greenhouse
+科技公司,twilio,greenhouse
+金融,affirm,greenhouse
+金融,betterment,greenhouse
+金融,brex,greenhouse
+金融,carta,greenhouse
+金融,chime,greenhouse
+金融,coinbase,greenhouse
+金融,gusto,greenhouse
+金融,mercury,greenhouse
+金融,point72,greenhouse
+金融,robinhood,greenhouse
+金融,sofi,greenhouse
+金融,stripe,greenhouse
